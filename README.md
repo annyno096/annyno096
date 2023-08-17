@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniket Pramanik</h1>
-<h3 align="center">want to learn more on security</h3>
+<h3 align="center">interested in security protocols</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annyno096&label=Profile%20views&color=0e75b6&style=flat" alt="annyno096" /> </p>
 
