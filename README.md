@@ -1,6 +1,8 @@
+
 [![MasterHead](https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif)]
-<h1 align="center">Hi 👋, I'm Aniket Pramanik</h1>)]
+<h1 align="center">Hi 👋, I'm Aniket Pramanik</h1>
 <h3 align="center">want to learn more on security</h3>
+(img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7f/dc/e2/7fdce2dc9307aff4f5acb88cc06b5904.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annyno096&label=Profile%20views&color=0e75b6&style=flat" alt="annyno096" /> </p>
 
