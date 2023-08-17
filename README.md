@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structure & Algorithm**
 
-- 📫 How to reach me **aniketpramanik096@gamil.com**
+- 📫 Reach me @ **aniketpramanik096@gamil.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
