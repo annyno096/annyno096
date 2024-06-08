@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annyno096&label=Profile%20views&color=0e75b6&style=flat" alt="annyno096" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning & Cloud**
+- 🌱 I’m currently learning **Red Teaming**
 
-- 💬 Ask me about **Data Structure & Algorithm**
+- 💬 Ask me about **Networking**
 
 - 📫 Reach me @ **aniketpramanik096@gamil.com**
 
